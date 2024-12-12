@@ -1,0 +1,12 @@
+body{
+    background-color:black
+}
+table, th, td {
+   border: 1px solid white;
+   border-collapse: collapse;
+}
+h1{color:white}
+h2{color:white}
+h3{color:white}
+text{color:white}
+p{color:white}
